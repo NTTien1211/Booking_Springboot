@@ -1,9 +1,5 @@
 <h1>Welcome Source Code Booking Java SpringBoot</h1>
 - Write API with java spring boot and Database SQL server,cloudinary,account verification phone sms firebase! </br>
-- Link Font-end Next Js
-<a>https://github.com/kun510/NextJs_BookingRoom</a> </br> 
-- Link Application Android Studio
-<a>https://github.com/kun510/AppBooking</a> </br>
 
 - Introducing the Booking Hostel API!
 
